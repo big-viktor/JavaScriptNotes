@@ -1,0 +1,32 @@
+.outArr{
+    margin-left:520px;
+    width: 310px;
+    height:auto;
+    border:1px solid rgb(0, 0, 0) ;
+    background-color:#aed68d;
+}
+.delet{
+    margin-left:520px;
+    width: 310px;
+    height:auto;
+    border:1px solid rgb(0, 0, 0) ;
+    background-color: #ffd2bf;
+}
+#inpute {
+    width: auto;
+    height:auto;
+    background-color: tomato;
+    text-align: right;}
+#btn{
+    margin: auto;
+    width: 127px;
+}
+#menu{
+    margin: auto;
+    width: 310px;
+    height: 30px;
+    margin-top: 90px;
+}
+body{
+    background-image:url(FonBody.jpg);
+}
